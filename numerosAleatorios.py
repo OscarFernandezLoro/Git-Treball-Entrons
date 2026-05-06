@@ -1,1 +1,1 @@
-print("Números aleatorios:")
+print("Números alneatorios:")
