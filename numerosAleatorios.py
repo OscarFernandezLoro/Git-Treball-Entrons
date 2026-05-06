@@ -1,3 +1,4 @@
+print("Números alneatorios:")
 import random
 contador = 0
 salir = False
